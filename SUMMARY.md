@@ -1,6 +1,6 @@
 # Table of contents
 
-* [product marketing](README.md)
+* [product-marketing](README.md)
 
 ## Group 1
 
