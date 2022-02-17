@@ -2,6 +2,6 @@
 
 * [product-marketing](README.md)
 
-## Pages
+## Updates
 
-* [What's New](pages/whats-new.md)
+* [What's New](updates/whats-new.md)
