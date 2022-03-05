@@ -1,5 +1,3 @@
-# Untitled
-
 March 4th, 2022
 
 ### Update title goes here
