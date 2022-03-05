@@ -12,7 +12,7 @@ Dream of the mind's eye prime number another world tingling of the spine how far
 
 Dream of the mind's eye prime number another world tingling of the spine how far away permanence of the stars. Dream of the mind's eye prime number another world tingling of the spine how far away permanence stars.
 
-## February 22, 2022
+## :tada:February 22, 2022
 
 ### Update title goes here
 
@@ -21,5 +21,5 @@ Dream of the mind's eye prime number another world tingling of the spine how far
 ####
 
 {% hint style="info" %}
-Auto-update is scheduled for March 19th 2022 @ 9pm PST
+For more details on this release, read the [release notes here](https://docs-snaplogic.atlassian.net/wiki/spaces/SD/pages/2463662653/February+2022+4.28+Release+Notes)
 {% endhint %}
