@@ -4,4 +4,4 @@
 
 ## Updates
 
-* [💃 Untitled](updates/whats-new-flows.md)
+* [💃 March 4th, 2022](updates/whats-new-flows.md)
