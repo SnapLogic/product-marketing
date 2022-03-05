@@ -1,13 +1,6 @@
 # What's New
 
-This is a  test to  see how things look in the product
-
-added **data** wrangler
-
-* this is a new feature
-* new change
-* more changes
-* this one is for Tushar
+### March 4th 2022
 
 |                   |                                                     |
 | ----------------- | --------------------------------------------------- |
