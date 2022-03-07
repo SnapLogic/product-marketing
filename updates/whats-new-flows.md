@@ -1,4 +1,4 @@
-# 💃 March 4th, 2022
+# 🗣 March 4th, 2022
 
 ### Update title goes here
 
@@ -12,7 +12,7 @@ Dream of the mind's eye prime number another world tingling of the spine how far
 
 Dream of the mind's eye prime number another world tingling of the spine how far away permanence of the stars. Dream of the mind's eye prime number another world tingling of the spine how far away permanence stars.
 
-## :tada:February 22, 2022
+## February 22, 2022
 
 ### Update title goes here
 
