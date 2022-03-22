@@ -1,18 +1,27 @@
 # 🗣 Release Updates
 
-## February 24, 2022
+## February 12, 2022
 
-### Webhook support for Salesforce and Hubspot
+### Webhook support for Salesforce and HubSpot
 
+Business users can build real-time flows with webhook support for Salesforce and HubSpot. These webhooks can track changes in an object such as Account or Opportunity in Salesforce or Lead in HubSpot and can be used to trigger a flow which can update another system and notify a Customer Success Manager or a Sales Representative who is serving that account.
 
+### New Endpoints
+
+With this release we are adding two new endpoints to Flows
+
+* HubSpot
+* JIRA
+
+### Auto Data Type Conversion
+
+SnapLogic Flows now leverages AI to suggest data type for all incoming data fields. And with a single click, you can automatically convert data from 'String' to an appropriate data type before pushing it to the target endpoint. You have an option to override these suggestions so that you are always in control.
 
 ## December 16, 2021
 
 ### Auto data type conversion
 
 When mapping data from a source to a destination in Data Wrangler, you can see data types in the filter dropdown when selecting input data. By leveraging Iris AI, Flows can also automatically convert data types. Users can override the data types as needed.
-
-![Iris AI automatically suggest data types for the source data](<../.gitbook/assets/image (20).png>)
 
 ### Other new Features
 
@@ -46,6 +55,8 @@ November release for Flows now provides unified error handling in the 'Informati
 
 SnapLogic Flows is a user experience built specifically for business users on top of the SnapLogic Intelligent Integration Platform (IIP). SnapLogic Flows allows users to accelerate business outcomes by automating common processes.&#x20;
 
+#### Built for Business Users
+
 Every Flow in SnapLogic Flows has three components Source, Transformation, and Destination. SnapLogic Flows is a no-code user experience that provides following features that help business users automate common tasks without the help from IT.
 
 * Information Panel to get contextual help at every step&#x20;
@@ -57,7 +68,11 @@ Every Flow in SnapLogic Flows has three components Source, Transformation, and D
 * Data preview of raw, filtered, and mapped data
 * Ability to run a Flow on demand or schedule a Flow in advance
 
+#### Governed by IT
+
 SnapLogic Flows is built on the SnapLogic IIP and provides governance and security features to the IT teams for a common user and asset management across Designer and SnapLogic Flows. IT teams can manage users and assets through the SnapLogic Manager and can get details on Flows execution through SnapLogic Dashboard.
+
+#### Supported Endpoints
 
 This first release of SnapLogic Flows focuses on Sales and Marketing endpoints. Following endpoints are available in SnapLogic Flows today: Salesforce, Marketo, Google Sheets, Slack, Box, SnapLogic Local Files, and Email.
 
