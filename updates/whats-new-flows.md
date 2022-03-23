@@ -1,5 +1,21 @@
 # 🗣 Release Updates
 
+## March 24, 2022
+
+### New Release Updates Page
+
+From this point forward we will highlight key items of each release and all past releases of Flows here on this page.
+
+### New Endpoints
+
+* Added Jira as a target endpoint.
+
+### Enhancements <a href="#enhancements" id="enhancements"></a>
+
+* Added an “Updated By” column to the **Project** tab which shows the last user to edit the Flow.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 ## February 12, 2022
 
 ### Webhook support for Salesforce and HubSpot
