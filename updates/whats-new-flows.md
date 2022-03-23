@@ -20,7 +20,7 @@ From this point forward we will highlight key items of each release and all past
 
 ### Webhook support for Salesforce and HubSpot
 
-Business users can build real-time flows with webhook support for Salesforce and HubSpot. These webhooks can track changes in an object such as Account or Opportunity in Salesforce or Lead in HubSpot and can be used to trigger a flow which can update another system and notify a Customer Success Manager or a Sales Representative who is serving that account.
+Business users can build event driven flows with webhook support for Salesforce and HubSpot. These webhooks can track changes in an object such as Account or Opportunity in Salesforce or Lead in HubSpot and can be used to trigger a flow which can update another system and notify a Customer Success Manager or a Sales Representative who is serving that account.
 
 ### New Endpoints
 
