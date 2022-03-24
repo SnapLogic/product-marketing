@@ -1,4 +1,4 @@
-# 🗣 Release Updates
+# 👀 Release Updates
 
 ## March 24, 2022
 
@@ -24,18 +24,18 @@ For more details on this release, read the [release notes here](https://docs-sna
 
 ### Webhook support for Salesforce and HubSpot
 
-Business users can build event-driven flows with webhook support for Salesforce and HubSpot. These webhooks can track changes in an object such as Account or Opportunity in Salesforce or Lead in HubSpot and can be used to trigger a flow which can update another system and notify a Customer Success Manager or a Sales Representative who is serving that account.
+Business users can build event-driven flows with webhook support for Salesforce and HubSpot. These webhooks can track changes in an object such as Account or Opportunity in Salesforce or Lead in HubSpot and can be used to trigger a flow that can update another system and notify a Customer Success Manager or a Sales Representative who is serving that account.
 
 ### New Endpoints
 
-With this release we are adding two new endpoints to Flows
+With this release, we are adding two new endpoints to Flows
 
-* HubSpot
-* JIRA
+* HubSpot as a source and target
+* JIRA as a source to pull data from
 
 ### Auto Data Type Conversion
 
-SnapLogic Flows now leverages Intelligence to suggest data types for all incoming data fields. And with a single click, you can automatically convert data from 'String' to an appropriate data type before pushing it to the target endpoint. You have an option to override these suggestions so that you are always in control.
+Stay in your flow! SnapLogic Flows now suggests data types for all incoming data fields to make it even easier for you to get your data moving. With a single click, you can automatically convert data from 'String' to an appropriate data type before pushing it to the target endpoint. Don't worry though, you still have an option to override our suggestions.
 
 
 
@@ -101,14 +101,14 @@ SnapLogic Flows is an application built specifically for business users on top o
 
 Every Flow in SnapLogic Flows has three components Source, Transformation, and Destination. SnapLogic Flows is a no-code user experience that provides the following features that help business users automate common tasks without help from IT.
 
-* Information Panel to get contextual help at every step&#x20;
-* Intelligent defaults such as commonly used objects in each endpoint
-* Simplified interface to configure accounts and endpoints
-* Dedicated 'Data Wrangler' interface for filtering the source data and mapping data from source to destination
-* Endpoint introspection of source and destination
-* Excel-like functions for data transformations&#x20;
-* Data preview of raw, filtered, and mapped data
-* Ability to run a Flow on demand or schedule a Flow in advance
+* Information Panel to guide you every step of the way!
+* Intelligent defaults such as commonly used objects in each endpoint.
+* Configure accounts and endpoints in a simple interface.
+* We know data can get a little wild, so we added a 'Data Wrangler' for filtering and mapping data from the source. Once it's tame, we'll get it to that destination for you.
+* A nice visual of your flow from source to destination.
+* For all the spreadsheet lovers out there, we added Excel-like functions for data transformations.
+* See a preview of raw, filtered, and mapped data.
+* Either run a Flow on-demand, or schedule it the choice is yours!
 
 #### Governed by IT
 

@@ -4,4 +4,4 @@
 
 ## Updates
 
-* [🗣 Release Updates](updates/whats-new-flows.md)
+* [👀 Release Updates](updates/whats-new-flows.md)
