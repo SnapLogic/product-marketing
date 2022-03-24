@@ -10,7 +10,7 @@ The page you're on right now was born today! That's right, starting on March 24t
 
 * You can now target Jira and send some love (or data) it's way.
 
-### Enhancements <a href="#enhancements" id="enhancements"></a>
+### Enhancements
 
 * Immediately know who to blame if you're Flow stops flowing, introducing the “Updated By” column to the project tab! This shows the last user to edit the Flow. No hiding now, Steve!
 
