@@ -8,11 +8,11 @@ The page you're on right now was born today! That's right, starting on March 24t
 
 ### New Endpoints
 
-* You can now target Jira and send some love (or data) it's way.
+* You can now target Jira and send some love (or data) its way.
 
 ### Enhancements
 
-* Immediately know who to blame if you're Flow stops flowing, introducing the “Updated By” column to the project tab! This shows the last user to edit the Flow. No hiding now, Steve!
+* Immediately know who to blame if your Flow stops flowing, introducing the “Updated By” column to the project tab! This shows the last user to edit the Flow. No hiding now, Steve!
 
 {% hint style="info" %}
 For more details on this release, read the [release notes here](https://docs-snaplogic.atlassian.net/wiki/spaces/SD/pages/2493054977/March+2022+Release+Notes)
