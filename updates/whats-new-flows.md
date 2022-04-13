@@ -1,5 +1,18 @@
 # 👀 Release Updates
 
+## April 14, 2022
+
+### New and Improved Endpoints <a href="#new-features.1" id="new-features.1"></a>
+
+* We added S3 File Reader (source) and S3 File Writer (target) as new endpoints.
+* For all you Marketing Ops folks out there, we improved the Marketo experience by adding a **Get Program by Name** button (when you use it as a source) and a **Clone Program** button (when you use it as a target).
+* When you use the Slack endpoint you can now send messages directly to users’ emails.
+
+### Enhancements <a href="#enhancements.3" id="enhancements.3"></a>
+
+* You can now download files from the **Project** tab by clicking the file name.
+* We cleaned up our platform quite a bit this release to enable even better updates in the future.
+
 ## March 24, 2022
 
 ### New Release Updates Page
