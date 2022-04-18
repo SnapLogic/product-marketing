@@ -11,6 +11,10 @@
 * You can now download files from the **Project** tab by clicking the 3 vertical dots next to each asset in the project.
 * We cleaned up our platform quite a bit this release to enable even better updates in the future.
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+##
+
 ## March 24, 2022
 
 ### New Release Updates Page
