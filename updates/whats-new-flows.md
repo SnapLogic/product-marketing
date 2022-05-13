@@ -1,5 +1,26 @@
 # 👀 Release Updates
 
+## May 14, 2022
+
+### New and Improved Endpoints
+
+* Marketo enhancements
+  * **Get Program by Name** (source) Find a program in Marketo and then while you're at it, clone that program using **Clone Program** (target). ****&#x20;
+* Enhanced Salesforce as a target
+  * **Delete Account**: Good riddance!
+  * **Delete Contact**: **** You're better off without them.
+  * **Delete Lead**: **** They were a rotten one anyway.
+  * **Delete Opportunity**: **** What a shame.
+  * **Delete another object**: for when they're no longer an object of your desire.
+* Jira enhancements
+  * You can now **Transition an Issue** in Jira when it's a target.&#x20;
+* Microsoft Dynamics improvements
+  * Added the Dynamics 365 NTLM Account type.
+* REST as a source improvements
+  * Added the REST In-memory OAuth2 Account type.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 ## April 14, 2022
 
 ### New and Improved Endpoints
