@@ -18,6 +18,8 @@
   * Added the Dynamics 365 NTLM Account type.
 * REST as a source improvements
   * Added the REST In-memory OAuth2 Account type.
+* Slack Endpoint
+  * We're now able to send Slack messages to users' email addresses.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
