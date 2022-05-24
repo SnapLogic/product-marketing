@@ -5,13 +5,13 @@
 ### New and Improved Endpoints
 
 * Marketo enhancements
-  * **Get Program by Name** (source) Find a program in Marketo and then while you're at it, clone that program using **Clone Program** (target). ****&#x20;
+  * **Get Program by Name** (source) Find a program in Marketo and then while you're at it, clone that program using **Clone Program** (target).
 * Enhanced Salesforce as a target
-  * **Delete Account**: Good riddance!
-  * **Delete Contact**: **** You're better off without them.
-  * **Delete Lead**: **** They were a rotten one anyway.
-  * **Delete Opportunity**: **** What a shame.
-  * **Delete another object**: for when they're no longer an object of your desire.
+  * **Delete Account:** Good riddance!
+  * **Delete Contact:** You're better off without them.
+  * **Delete Lead:** They were a rotten one anyway.
+  * **Delete Opportunity:** What a shame.
+  * **Delete another object:** For when they're no longer an object of your desire.
 * Jira enhancements
   * You can now **Transition an Issue** in Jira when it's a target.&#x20;
 * Microsoft Dynamics improvements
