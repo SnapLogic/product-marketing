@@ -1,5 +1,28 @@
 # 👀 Release Updates
 
+## June 9, 2022
+
+### New and Improved Endpoints
+
+* New **Triggered Event - Webhook** source endpoint
+  * We've enabled you to be able to listen to almost any webhook. Currently, we're starting with JSON data only for now, and more data types should be available in the future.
+* Enhanced **Google Sheets** source endpoint
+  * In this release, we've added the ability to listen to changes made to a Google Sheet via a webhook specifically built for it. Just go into the endpoint, select your sheet and start listening. It's like music to my ears!
+
+### Autolink in the Data Wrangler
+
+* We brought over one of our fan-favorite features from IIP, **Autolink**! Now instead of doing all your data mappings manually, just click a button and let us do some of the work for you.
+
+### Other Enhancements
+
+* You can now move, copy, export, and delete a Flows from the **Projects** tab in Flows.
+* You can now export a Project from the **Projects** tab in Flows.
+* You can now search, sort, and filter Flows via the **Manager** > **Asset Search** in IIP.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+##
+
 ## May 14, 2022
 
 ### New and Improved Endpoints
